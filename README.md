@@ -1,2 +1,3 @@
-# demo-repo
-Demo file for learning git and github
+# DEMO
+
+Readme.md file for learning
